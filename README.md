@@ -4,5 +4,5 @@ COVID-19 Patient Management System - We have created this database project using
 For detailed working please refer the report
 
 Made by -
-        ORVELL FERREIRA
+        ORVELL FERREIRA (https://github.com/orvell)
         CLINT FERREIRA
